@@ -1,18 +1,18 @@
 # NodeNoteApp
 ##Commands
-##ADD NOTE
-'''node
+###ADD NOTE
+```bash
 node NoteApp.js add --title="TITLE" --body="BODY"
-'''
-##REMOVE NOTE
-'''node
+```
+###REMOVE NOTE
+```bash
 node NoteApp.js remove --title="TITLE"
-'''
-##LIST NOTES
-'''node
+```
+###LIST NOTES
+```bash
 node NoteApp.js list
-'''
-##READ NOTES
-'''node
+```
+###READ NOTES
+```bash
 node NoteApp.js read --title="TITLE"
-'''
+```
